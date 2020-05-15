@@ -8,6 +8,21 @@
     box-sizing: border-box;
     
 }
+/*Update*/
+.flag
+{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    top : 520px;
+    color: #555;
+    font-size: 18px;
+    width: 150px;
+    text-align: center;
+    height: 30px;
+    padding: 12px
+
+}
 
 .clearfix::after {
     content: "";
